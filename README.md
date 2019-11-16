@@ -9,9 +9,9 @@
 ![1](https://github.com/ximi-xoo/pasa/blob/master/pasa.jpg)
 
 # Command :-
-# $ apt update && uprade -y && apt install git -y && pkg install python2 -y && git clone https://github.com/ximi-xoo/pasa && cd pasa && unzip pasa.zip && bash pasa.sh
+# apt update && uprade -y && apt install git -y && pkg install python2 -y && git clone https://github.com/ximi-xoo/pasa && cd pasa && unzip pasa.zip && bash pasa.sh
 
 # Use This Command it will take some time for installation and running the tool 
 
 
-# Special Thanks To Nila For Making This Tool 
+# Special Thanks To Niladrita Nila For Making This Tool 
